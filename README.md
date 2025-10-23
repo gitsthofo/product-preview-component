@@ -1,4 +1,4 @@
-# product-preview-component
+
 
 
 # Frontend Mentor - Product preview card component
