@@ -3,7 +3,11 @@
 
 # Frontend Mentor - Product preview card component
 
-![Design preview for the Product preview card component coding challenge](./design/desktop-preview.jpg)
+![Design preview for the Product preview card component coding challenge](I've just completed a front-end coding challenge from @frontendmentor! 🎉
+
+You can see my solution here: https://www.frontendmentor.io/solutions/product-preview-card-component-SfT1FTvbEL
+
+Any suggestions on how I can improve are welcome!)
 
 ## Welcome! 👋
 
